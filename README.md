@@ -7,7 +7,7 @@ API endpoint that returns Croatian post offices according to PDF file available 
 Available at https://api.applause.hr/iz-poste-u-postu
 
 * GET requests accepted
-* returns all post offices
+* returns all post offices in JSON
 
 ## Parameters
 
